@@ -1,0 +1,383 @@
+.bgimage {
+	background-position: center auto;
+	background-size: cover;
+	width: 100%;
+	height: 300px;
+	top: -200px;
+	border-style: solid;
+	border-color: #7B1513;
+	border-width: 0px 
+}
+
+.unmbgimage {
+	background-image: url('../images/unmbanner600.png');
+}
+
+.BorderImg {
+	position: absolute;
+	top: 250px;
+	width: 100%;
+}
+/*.title {
+ color: white;
+ font-weight: bold;
+ font-size: 40px;
+ }*/
+.dropdown-menu.multi-column .row {
+        min-width: 900px;
+        max-width: 1000px;
+        margin-left: 0px;
+}
+
+.col-xs-12.col.md-1 {
+		padding: 5px 5px 5px 5px;
+		min-width: 200px;
+}
+.dropdown-menu.multi-column .dropdown-menu {
+        display: block !important;
+        position: static !important;
+        margin: 0 !important;
+        border: none !important;
+        box-shadow: none !important;
+        min-width:200px;
+}
+
+li.title a {
+	font-weight: bold;
+}
+#myCarousel {
+	position: absolute;
+	overflow: hidden;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	z-index: -1;
+	width: 100%;
+	height: 250px;
+}
+
+.carousel-inner .item .img {
+	display: block;
+	width: 50%;
+	max-width: 100%;
+}
+
+#LogoImg {
+	position: relative;
+	left: 0px;
+	top: 40px;
+	z-index: 1;
+}
+
+p {
+	font-family: "Tahoma", Geneva, sans-serif;
+}
+
+/*.navbar .navbar-inverse .container-fluid .navbar-header .navbar-toggle .icon-bar {
+ color: #a6079c;
+ background-color; black !important;
+}*/
+
+.services section {
+	text-align: center;
+}
+
+a {
+	color: #777;
+}
+
+a:focus {
+	color: #777 !important;
+}
+
+a:active {
+	color: #91b454 !important;
+}
+
+a:visited {
+	color: #5F5F5F !important;
+}
+
+a:hover {
+	color: #d37408 !important;
+}
+
+.caret {
+	color: #d37408 !important;
+}
+
+.active {
+	color: #7B1513 !important;
+}
+
+/* #1 nav bar entire bar*/
+.navbar-inverse {
+	background-color: #7B1513 !important;
+	border-radius: 0px;
+	right: 0px;
+	max-height: 50px;	
+}
+
+.navbar-nav {
+	float: right;
+	margin: 0px;
+	font-size: small;
+}
+
+/*#myNavbar .collapse .navbar-collapse {
+	background-color: green !important;
+	width: 100%;
+}*/
+
+.navbar .navbar-inverse .navbar-fixed-top {
+		top: -70px;
+}
+
+
+
+ul .dropdown {
+	margin-right: 0px;
+}
+
+
+/* navbar #1 school */
+.navbar-inverse .navbar-brand {
+	font-size: small;
+	font-weight: bold;
+	width: 100px;
+	background-color: #7B1513;
+	color: white !important;
+}
+/*navbar #1 hover menu*/
+.navbar-inverse .dropdown {
+	background-color: #7B1513;
+	/*color: yellow !important; */
+}
+/* navbar #1 menu */
+.navbar-inverse .dropdown > a {
+	background-color: transparent;
+	color: white !important;
+}
+
+
+.navbar-inverse .navbar-nav > .open > a {
+	background-color: white !important;
+	color: #7B1513 !important;
+}
+/*navbar #1 pulldown menu */
+.navbar-inverse .dropdown-menu  {
+	background-color: white;
+	color: #7B1513 !important;
+}
+
+/* change background color on hover menu #1 */
+.dropdown-submenu > a:focus, .dropdown-submenu > a:hover, .dropdown-submenu:focus > a, r, .dropdown-submenu:hover > a, .dropdown-menu > li a:hover, .dropdown-menu > li a:focus {
+	background-color: #FAB768 !important;
+	color: white !important;
+	background-image: none;
+	filter: none;
+	text-decoration: none;
+	border: none;
+}
+
+/* School Name  #1 */
+.navbar .navbar-brand {
+	font-size: medium;
+	font-weight: bold;
+	width: 150px;
+	/*Official School Color*/
+	background-color: transparent;
+	float: left;
+}
+
+.navbar-brand a {
+	vertical-align: middle;
+}
+
+
+/* vertical and horizontal menus */
+.nav .nav2 .navbar-nav .dropdown {
+	min-width: 75px;
+}
+
+.breadcrumb, .breadcrumb a {
+	background-color: transparent;
+	color: #777;
+}
+/*.breadcrumb a {
+	color: #777;
+}
+*/
+
+/*.dropdown3 {
+ margin-top: -5px;
+ }*/
+
+/*menu #3 full background color*/
+/*.nav-pills {
+ background-color: transparent;
+ max-width: 220px;
+ border-right-width: .5px;
+ border-right-color: #d37408;
+ border-right-style: solid;
+ }*/
+/* menu list navbar #3*/
+
+.navbar .navbar-inverse  {
+	background-color: white !important;
+	width: 100%;
+	position: absolute;
+	top: 275px;
+	height: auto;
+}
+
+
+.nav-pills > li > a {
+	background-color: transparent;
+	font-size: small;
+	color: black;
+}
+/* verticle toggle menu*/
+/*.nav-stacked .dropdown .dropdown-menu {
+ background-color: white;
+ }*/
+
+/*2nd nav bar*/
+.nav2 .navbar .navbar-inverse {
+	background-color: white;
+	top: -50px;
+}
+
+.nav2 li.dropdown a {
+	height: 30px;
+	min-width: 75px;
+	vertical-align: middle;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	background-color: white;
+	color: gray;
+}
+/*  hover for menu #3*/
+.nav-stacked .dropdown > a:focus, .nav-stacked .dropdown > a:hover, .nav-stacked .dropdown:focus > a, r, .nav-stacked .dropdown:hover > a {
+	background-color: #E5E4E2 !important;
+	color: white !important;
+	background-image: none;
+	filter: none;
+	text-decoration: none;
+	border: none;
+}
+
+.dropdown-submenu {
+	position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+	top: 0;
+	left: 100%;
+	margin-top: -6px;
+	margin-left: -1px;
+	-webkit-border-radius: 0 6px 6px 6px;
+	-moz-border-radius: 0 6px 6px 6px;
+	border-radius: 0 6px 6px 6px;
+	background-color: #E5E4E2;
+}
+.dropdown-submenu:hover > .dropdown-menu {
+	display: block;
+}
+
+.dropdown-submenu > a:after {
+	display: block;
+	content: " ";
+	float: right;
+	width: 0;
+	height: 0;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 5px 0 5px 5px;
+	border-left-color: #cccccc;
+	margin-top: 5px;
+	margin-right: -10px;
+}
+
+.dropdown-submenu:hover > a:after {
+	border-left-color: #ffffff;
+}
+
+.dropdown-submenu .pull-left {
+	float: none;
+}
+
+.dropdown-menu > li > a {
+	color: #777;
+}
+
+/*.dropdown-menu li:hover .submenu {
+ visibility: visible;
+ }*/
+
+.dropdown-submenu.pull-left > .dropdown-menu {
+	left: -100%;
+	margin-left: 10px;
+	-webkit-border-radius: 6px 0 6px 6px;
+	-moz-border-radius: 6px 0 6px 6px;
+	border-radius: 6px 0 6px 6px;
+}
+
+.root:hover > .dropdown-menu {
+	display: block;
+}
+
+.textbody {
+	position:  relative;
+	padding-right: 20px;
+	padding-top: 20px;
+	height: 100%;
+	color: black;
+}
+
+.navbar-fixed-bottom {
+	width: 100%;
+}
+
+#footer {
+	display: table;
+	clear: both;
+	border-top: 10px double #E4E5E2;
+	width: 100%;
+	height: 50px;
+	background-color: #7b1513;
+	position: absolute;
+	color: white;
+	left: 0px;
+}
+
+#footer a > , #footer > a:hover {
+	color: white !important;
+}
+
+#footerContent {
+	display: table;
+	width: inherit;
+	height: inherit;
+	background-color: #7b1513;
+}
+
+#leftFooter {
+	display: table-cell;
+	color: white;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	font-size: 12px;
+}
+
+#rightFooter {
+	display: table-cell;
+	color: white;
+	vertical-align: middle;
+	text-align: right;
+	padding-right: 40px;
+	font-size: 12px;
+}

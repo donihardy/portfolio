@@ -1,0 +1,260 @@
+.bgimage {
+	background-image: url('../images/enmu1.png');
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 250px;
+}
+
+/*.title {
+ color: white;
+ font-weight: bold;
+ font-size: 40px;
+ }*/
+
+.LogoImg {
+	position: absolute;
+	left: 20px;
+	top: 10px;
+	z-index: 1;
+}
+
+p {
+	font-family: "Tahoma", Geneva, sans-serif;
+}
+
+/*.navbar .navbar-inverse .container-fluid .navbar-header .navbar-toggle .icon-bar {
+ color: #a6079c;
+ background-color; black !important;
+ }*/
+
+.services section {
+	text-align: center;
+}
+
+a {
+	color: black;
+}
+
+a:focus {
+	color: #FAB768;
+}
+
+a:visited {
+	color: #F7941E;
+}
+
+a:hover {
+	color: white;
+}
+
+.caret {
+	color: #F7941E;
+}
+
+.active {
+	color: #777;
+}
+
+/* #1 nav bar entire bar*/
+.navbar.navbar-inverse {
+	top: 0px;
+	background-color: #777;
+}
+
+/* navbar #1 school */
+.navbar-inverse .navbar-brand {
+	font-size: small;
+	font-weight: bold;
+	width: 240px;
+	background-color: #777;
+	color: white !important;
+}
+/*navbar #1 hover menu*/
+.navbar-inverse .dropdown {
+	background-color: #777;
+	/*color: yellow !important; */
+}
+/* navbar #1 menu */
+.navbar-inverse .dropdown > a {
+	background-color: transparent;
+	color: white !important;
+}
+
+.navbar-inverse .navbar-nav > .open > a {
+	background-color: white !important;
+	color: #F7941E !important;
+}
+/*navbar #1 pulldown menu */
+.navbar-inverse .dropdown-menu {
+	background-color: white;
+	/*color: #BDB76B !important;*/
+}
+
+/* change background color on hover menu #1 */
+.dropdown-submenu > a:focus, .dropdown-submenu > a:hover, .dropdown-submenu:focus > a, r, .dropdown-submenu:hover > a, .dropdown-menu > li a:hover, .dropdown-menu > li a:focus {
+	background-color: #FAB768;
+	color: white !important;
+	background-image: none;
+	filter: none;
+	text-decoration: none;
+	border: none;
+}
+
+/* School Name  #1 */
+.navbar .navbar-brand {
+	font-size: medium;
+	font-weight: bold;
+	width: 240px;
+	/*Official School Color*/
+	background-color: transparent;
+}
+
+/* vertical and horizontal menus */
+.nav .nav2 .navbar-nav .dropdown {
+	min-width: 220px;
+}
+
+.breadcrumb {
+	background-color: transparent;
+}
+.dropdown3 {
+	margin-top: -5px;
+}
+
+/*menu #3 full background color*/
+.nav-pills {
+	background-color: transparent;
+	max-width: 220px;
+	border-right-width: .5px;
+	border-right-color: #F7941E !important;
+	border-right-style: solid;
+}
+/* menu list navbar #3*/
+.nav-pills > li > a {
+	background-color: transparent;
+	font-size: small;
+	color: #777;
+}
+/* verticle toggle menu*/
+.nav-stacked .dropdown .dropdown-menu {
+	background-color: white;
+}
+
+/*  hover for menu #3*/
+.nav-stacked .dropdown > a:focus, .nav-stacked .dropdown > a:hover, .nav-stacked .dropdown:focus > a, r, .nav-stacked .dropdown:hover > a {
+	background-color: #E5E4E2 !important;
+	color: #777 !important;
+	background-image: none;
+	filter: none;
+	text-decoration: none;
+	border: none;
+}
+
+.dropdown-submenu {
+	position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+	top: 0;
+	left: 100%;
+	margin-top: -6px;
+	margin-left: -1px;
+	-webkit-border-radius: 0 6px 6px 6px;
+	-moz-border-radius: 0 6px 6px 6px;
+	border-radius: 0 6px 6px 6px;
+	background-color: white;
+}
+.dropdown-submenu:hover > .dropdown-menu {
+	display: block;
+}
+
+.dropdown-submenu > a:after {
+	display: block;
+	content: " ";
+	float: right;
+	width: 0;
+	height: 0;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 5px 0 5px 5px;
+	border-left-color: #cccccc;
+	margin-top: 5px;
+	margin-right: -10px;
+}
+
+.dropdown-submenu:hover > a:after {
+	border-left-color: #ffffff;
+}
+
+.dropdown-submenu .pull-left {
+	float: none;
+}
+
+.dropdown-menu > li > a {
+	color: #777;
+}
+
+/*.dropdown-menu li:hover .submenu {
+ visibility: visible;
+ }*/
+
+.dropdown-submenu.pull-left > .dropdown-menu {
+	left: -100%;
+	margin-left: 10px;
+	-webkit-border-radius: 6px 0 6px 6px;
+	-moz-border-radius: 6px 0 6px 6px;
+	border-radius: 6px 0 6px 6px;
+}
+
+.root:hover > .dropdown-menu {
+	display: block;
+}
+
+.textbody {
+	/*position:  absolute;*/
+	padding: 0px 10px 0px 10px;
+	height: 100%;
+	color: black;
+}
+
+.navbar-fixed-bottom {
+	width: 100%;
+}
+
+#footer {
+	display: table;
+	clear: both;
+	border-top: 5px double #E4E5E2;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	color: white;
+	left: 0px;
+}
+
+#footerContent {
+	display: table;
+	width: inherit;
+	height: inherit;
+	background-color: silver;
+}
+
+#leftFooter {
+	display: table-cell;
+	color: white;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	font-size: 12px;
+}
+
+#rightFooter {
+	display: table-cell;
+	color: white;
+	vertical-align: middle;
+	text-align: right;
+	padding-right: 40px;
+	font-size: 12px;
+}

@@ -72,11 +72,11 @@
     <h5 class="description">Horse illustration for short story.</p>
   </section>
   <section class="col-sm-6 description2">
-    <a href="images/frogsunscreenfront.png"><img id="FlashImg" src="images/frogsunscreenfront.png" class="img-responsive center-block" alt="Responsive Image"></a>
+    <a href="images/frogsunscreenfront.png"><img id="PortfolioImg1" src="images/frogsunscreenfront.png" class="img-responsive center-block" alt="Responsive Image"></a>
     <h5 class="description">Example of sunscreen label.</p>
   </section>
   <section class="col-sm-6 description2">
-    <a href="images/frogsunscreenback.png"><img id="FlashImg" src="images/frogsunscreenback.png" class="img-responsive center-block" alt="Responsive Image"></a>
+    <a href="images/frogsunscreenback.png"><img id="PortfolioImg1" src="images/frogsunscreenback.png" class="img-responsive center-block" alt="Responsive Image"></a>
     <h5 class="description">Example of sunscreen label.</p>
   </section>
   <section class="col-sm-6 description2">

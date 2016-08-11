@@ -15,8 +15,8 @@
 <div class="container-fluid">
   <div class="displayspics">
   <section class="col-md-8 description6a">
-    <a href="http://www.nmcollegetransfer101.com/test/"><img id="WebImg" src="images/nmtransfer.gif" class="img-responsive center-block" alt="Responsive Image"></a>
-    <p><h5>NM statewide transfer website development using html, css, php, bootstrap and javascript.</h5></p></section>
+    <a href="http://www.nmcollegetransfer101.com/"><img id="WebImg" src="images/nmtransfer.gif" class="img-responsive center-block" alt="Responsive Image"></a>
+    <p><h5>NM statewide transfer responsive website development using html, css, php, bootstrap and javascript. </h5></p></section>
    <br />
   
   <section class="col-md-8 description6a">

@@ -44,7 +44,7 @@
     <h5 class="description">Front/back of brochure.</p>
   </section>
    <section class="col-sm-6 description3">
-    <a href="images/CNMBrochure_Page_3.jpgCNMBrochure_Page_3.jpg"><img id="PortfolioImg" src="images/CNMBrochure_Page_3.jpg" class="img-responsive center-block" alt="Responsive Image"></a>
+    <a href="images/CNMBrochure_Page_3.jpg"><img id="PortfolioImg" src="images/CNMBrochure_Page_3.jpg" class="img-responsive center-block" alt="Responsive Image"></a>
     <h5 class="description">Inside page of brochure.</p>
   </section>
    <section class="col-sm-6 description3">

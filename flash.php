@@ -15,11 +15,11 @@
 <div class="container-fluid">
   <div class="displayspics">
   <section class="col-lg-12 description1">
-    <img id="FlashImg" src="images/flashlogo.gif" class="img-responsive center-block" alt="Responsive Image"></section>
+    <a href="images/flashlogo.swf"><img id="FlashImg" src="images/flashlogo.swf" class="img-responsive center-block" alt="Responsive Image"></a></section>
    <p><h5>Banner for a organization's website.</h5></p>
   
   <section class="col-lg-12 description1">
-    <img id="FlashImg" src="images/flashlogo.gif" class="img-responsive center-block" alt="Responsive Image"></section>
+    <a href="images/titlebanner.swf"><img id="FlashImg" src="images/titlebanner.swf" class="img-responsive center-block" alt="Responsive Image"></a></section>
     <p><h5>Banner for portfolio website.</h5></p>
   
  

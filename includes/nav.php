@@ -20,11 +20,8 @@
             <li><a href="photoshop.php">PHOTOSHOP</a></li>
             <li><a href="web.php">WEB DEV</a></li>
           </ul></li>
-        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">ABOUT <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-            <li><a href="about.php">ABOUT</a></li>
-            <li><a href="about.php">CONTACT</a></li>
-          </ul></li>
+           <li class="dropdown"><a href="about.php">ABOUT</a></li>
+       
          </ul>
     </div>
   </div>

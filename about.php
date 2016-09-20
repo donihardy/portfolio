@@ -10,21 +10,17 @@
     ABOUT
   </li>
 </ol>
-<div class="textbody"><h3 class="title1">ABOUT ME</h3>
+<div class="textbody"><h3 class="title1">ABOUT</h3>
   <div class="container-fluid col-md-4">
-    <img src="images/transfacefearsalt.jpg" class="image-responsive"></div>
+    <img src="images/facefears.gif" class="image-responsive" alt="face fears image"></div>
   <div class="container-fluid col-md-8 aboutme">
-  <p>I am from Albuquerque, NM but have lived many different places including overseas. I love living in areas where there are many outdoor activities such as rock climbing, cycling, hiking and camping.</p>
-  <p>I have been doing web and graphic design for about 20 years. I have an associates degree in grapic design and a bachelors degree in Occupational Education with Graphic Design concentration. I currently work for an institution of higher education as a web and graphic designer.</p>
+  <p>Graphic and web designer/developer. A.A.S in grapic design and a B.A. in Occupational Education with Graphic Design concentration. Currently working for an institution of higher education as a web and graphic designer/developer.</p>
 </div>
-<div class="container-fluid col-md-12 title1"><h3>CONTACT ME</h3>
+<div class="container-fluid col-md-12 title1"><h3>CONTACT</h3>
 
 <a href="mailto:donihardy@gmail.com">
-<span class="glyphicon glyphicon-envelope" aria-hidden="true"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/doni-hardy-301a3755"><img src="images/In-2CRev-28px-R.png"></a></span>
-</div>
-
+<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/doni-hardy-301a3755"><img src="images/In-2CRev-28px-R.png" alt="Linked in image"></a>
 </div>
 </div>
-
 <?php include 'includes/footer.php'; ?>

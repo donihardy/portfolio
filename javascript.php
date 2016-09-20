@@ -16,16 +16,16 @@
 <div class="container-fluid">
   <div class="displayspics">
   <section class="col-sm-6 description4">
-    <a href="mtf.php"><img src="images/mtf.gif" id="PortfolioImg"  class="img-responsive center-block" alt="Responsive Image"></a>
-    <h5 class="description">App for calculating maximum time frame of credit hours for financial aid purposes.</h5></p>
+    <a href="mtf.php"><img src="images/mtf.gif" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
+    <h5 class="description">App for calculating maximum time frame of credit hours for financial aid purposes.</h5>
   </section>
   <section class="col-sm-6 description4">
-    <a href="cr.php"><img id="PortfolioImg" src="images/cr.gif" class="img-responsive center-block" alt="Responsive Image"></a>
-    <h5 class="description">App developed for calculating course completion rate for financial aid purposes.</h5></p>
+    <a href="cr.php"><img src="images/cr.gif" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
+    <h5 class="description">App developed for calculating course completion rate for financial aid purposes.</h5>
   </section>
   <section class="col-sm-6 description4">
-    <a href="gpa.php"><img id="PortfolioImg" src="images/gpa.gif" class="img-responsive center-block" alt="Responsive Image"></a>
-   <h5 class="description">App developed for calculating GPA.</h5></p>
+    <a href="gpa.php"><img src="images/gpa.gif" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
+   <h5 class="description">App developed for calculating GPA.</h5>
   </section>  
   </div>
 </div>

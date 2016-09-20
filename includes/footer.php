@@ -16,7 +16,7 @@ if ($thisYear > $startYear) {
                 <div id="footerContent">
                     <div id="leftFooter">
                         <h4>doni hardy</h4>
-                        <a href="mailto:donihardy@gmail.com"><h5>Contact</a></h5>
+                        <h5><a href="mailto:donihardy@gmail.com">Contact</a></h5>
                         <h6>© <?php echo $copyright; ?></h6>
                     </div>
                    </div>

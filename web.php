@@ -15,18 +15,22 @@
 <div class="container-fluid">
   <div class="displayspics">
   <section class="col-md-8 description6a">
-    <a href="http://www.nmcollegetransfer101.com/"><img id="WebImg" src="images/nmtransfer.gif" class="img-responsive center-block" alt="Responsive Image"></a>
-    <p><h5>NM statewide transfer responsive website development using html, css, php, bootstrap and javascript. </h5></p></section>
+    <a href="http://www.nmcollegetransfer101.com/"><img src="images/nmtransfer.gif" class="img-responsive center-block WebImg" alt="Responsive Image"></a>
+    <h5>NM statewide transfer responsive website development using HTML5, CSS3, PHP, Bootstrap and Javascript. </h5></section>
    <br />
-  
-  <section class="col-md-8 description6a">
-    <a href="https://theserialadventurer.wordpress.com/"><img id="WebImg" src="images/serialadventurer.gif" class="img-responsive center-block" alt="Responsive Image"></a><p><h5>Wordpress website.</h5></p></section>
+   <section class="col-md-8 description6a">
+     <a href="http://www.falconpride.com/"><img src="images/falconpride.jpg" class="img-responsive center-block WebImg" alt="Responsive Image"></a>
+     <h5>Website supporting parents of United States Air Force Academy cadets. This site has been in operation since 1997. Developed using HTML5, CSS3, PHP, Bootstrap, and Javascript. </h5></section>
     <br />
 
   <section class="col-md-8 description6a">
-    <a href="https://theserialhobbyiste.wordpress.com/"><img id="WebImg" src="images/serialhobbyiste.gif" class="img-responsive center-block" alt="Responsive Image"></a><p><h5>Wordpress website.</h5></p></section>
+    <a href="https://theserialadventurer.wordpress.com/"><img src="images/serialadventurer.gif" class="img-responsive center-block WebImg" alt="Responsive Image"></a><h5>Wordpress website.</h5></section>
     <br />
-  
+
+  <section class="col-md-8 description6a">
+    <a href="https://theserialhobbyiste.wordpress.com/"><img src="images/serialhobbyiste.gif" class="img-responsive center-block WebImg" alt="Responsive Image"></a><h5>Wordpress website.</h5></section>
+    <br />
+
  </div>
 </div>
 </div>

@@ -1,11 +1,13 @@
-.bgimage {
+#bgimage {
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100%;
 	height: auto;
-	padding-left: 20px;
+	margin-left: -15px;
 	margin-right: -50px;
+	margin-top: 20px;
+	border-bottom: 2px solid rgb(141, 198, 63);
 }
 
 div.img-responsive {
@@ -48,7 +50,7 @@ a:active {
 }
 
 a:visited {
-	color: #c0c0c0 !important;
+	color: rgba(160,160,160, .6) !important;
 }
 
 a:hover {
@@ -56,7 +58,7 @@ a:hover {
 }
 
 .caret {
-	color: orangered ;
+	color: rgb(56, 171, 178) ;
 }
 
 .active {
@@ -64,7 +66,6 @@ a:hover {
 }
 
 .container-fluid {
-	margin-left: -15px;
 	margin-right: -15px;
 }
 
@@ -108,12 +109,12 @@ a:hover {
 /* navbar #1 menu */
 .navbar-inverse .dropdown > a {
 	background-color: transparent;
-	color: rgb(35, 126, 207) !important;
+	color: rgb(56, 171, 178) !important;
 }
 
 .navbar-inverse .navbar-nav > .open > a {
 	background-color: white !important;
-	color: rgba(141, 198, 63, .70) !important;
+	color: rgb(141, 198, 63) !important;
 }
 /*navbar #1 pulldown menu */
 .navbar-inverse .dropdown-menu {
@@ -218,6 +219,11 @@ a:hover {
 	display: block;
 }
 
+div.container-fluid {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
 .textbody {
 	margin-top: -15px;
 	margin-left: 20px;
@@ -230,19 +236,33 @@ a:hover {
 	/*z-index: 1;*/
 }
 
-#PortfolioImg {
+.PortfolioImg {
 	width: 100%;
 	height: auto;
 }
 
-#PortfolioImg1 {
+.PortfolioImg1 {
 	width: auto;
+	height: 100%;
+}
+
+.IllustratorImg1 {
+	width: 65%;
+	height: auto;
+}
+
+.IndesignImg1, .PhotoshopImg {
 	height: 80%;
+	width: auto;
+}
+
+.col-md-3 {
+	margin-right: 15px;
 }
 
 #FlashImg {
-	width: auto;
-	height: 80%;
+	width: 100%;
+	height: auto;
 	margin-top: 5px;
 }
 
@@ -261,8 +281,10 @@ a:hover {
 }
 
 .col-lg-12 {
-	height: 150px;
+	height: 300px;
+	width: 300px;
 }
+
 
 h4 {
 	font-style:italic;
@@ -311,7 +333,7 @@ h5 {
 	font-weight: normal;
 	font-style: normal;
 	color: #000;
-	border: solid rgb(141, 198, 63) 3px;
+	/*border: solid rgb(141, 198, 63) 3px;*/
 	margin-bottom: 10px;
 }
 
@@ -363,6 +385,18 @@ h5 {
 	margin-bottom: 10px;
 }
 
+/*Begin homepage*/
+
+div.col-xs-4 {
+	padding-right: 1px;
+	margin: 0px;
+	width: 175px;
+	height: 175px;
+}
+
+/*end homepage*/
+
+
 .navbar-fixed-bottom {
 	margin-bottom: 0px;
 	width: 100%;
@@ -404,11 +438,15 @@ body > table > tbody > tr > td > center > table > tbody > tr > th, body > table 
 	border-color: rgb(141, 198,63);
 	font-size: 2.2em;
 	vertical-align: middle;
-
 }
 
 .button .btn .btn-default {
 	border-color: white;
+}
+
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header button.navbar-toggle {
+	background-color: white;
+	border-color: rgb(141, 198,63);
 }
 
 #footer {
@@ -459,13 +497,14 @@ body > table > tbody > tr > td > center > table > tbody > tr > th, body > table 
 
 @media screen and (max-width: 768px) {
 
+
 img#PortfolioImg {
 	height: auto;
 	width: 50%;
 }
 
 .caret {
-	color: orangered;
+	color: rgb(56, 171, 178);
 }
 
 body {

@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
 <?php include 'includes/top.php'; ?>
-
 <?php include 'includes/nav.php'; ?>
 
 <ol class="breadcrumb">
@@ -58,91 +56,15 @@
   </section>
    <section class="col-sm-6 description3">
     <a href="images/CNMBrochure_Page_1.jpg"><img src="images/CNMBrochure_Page_1.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Front/back of brochure.</h5>
+    <h5 class="description">Front/back of brochure mailer.</h5>
   </section>
    <section class="col-sm-6 description3">
     <a href="images/CNMBrochure_Page_3.jpg"><img src="images/CNMBrochure_Page_3.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Inside page of brochure.</h5>
+    <h5 class="description">Inside page of brochure mailer.</h5>
   </section>
-   <section class="col-sm-6 description3">
-    <a href="images/menu.jpg"><img src="images/menu.jpg" class="img-responsive center-block IndesignImg1" alt="Responsive Image"></a>
-    <h5 class="description">Back cover of menu.</h5>
-  </section>
-   <section class="col-sm-6 description3">
-    <a href="images/menu_inside.jpg"><img src="images/menu_inside.jpg" class="img-responsive center-block IndesignImg1" alt="Responsive Image"></a>
-    <h5 class="description">Inside menu.</h5>
-  </section>
-   <section class="col-sm-6 description3">
-    <a href="images/leocover.jpg"><img src="images/leocover.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Cover of a college magazine.</h5>
-  </section>
+  
   </div>
 </div>
 </div>
-=======
-<?php include 'includes/top.php'; ?>
 
-<?php include 'includes/nav.php'; ?>
-
-<ol class="breadcrumb">
-    <li>
-        <a href="index.php">HOME</a>
-    </li>
-    <li>
-       INDESIGN
-    </li>
-</ol>
-
-<div class="textbody"><h3 class="title3">INDESIGN</h3>
-  <p></p>
-<div class="container-fluid">
-  <div class="displayspics">
-  <section class="col-sm-6 description3">
-    <a href="images/CNMinviteportfoliofront.jpg"><img src="images/CNMinviteportfoliofront.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Front of invitation/ticket for an promotional event. All illustrations are original.</h5>
-  </section>
-  <section class="col-sm-6 description3">
-    <a href="images/UNMinviteportfoliofront.jpg"><img src="images/UNMinviteportfoliofront.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Front of invitation/ticket for an event. All illustrations are original.</h5>
-  </section>
-  <section class="col-sm-6 description3">
-    <a href="images/AdvisorOfficeTent.jpg"><img src="images/AdvisorOfficeTent.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-   <h5 class="description">Table tent for academic advisors.</h5>
-  </section>
-  <section class="col-sm-6 description3">
-    <a href="images/STEMUPbookmarkbranding.jpg"><img src="images/STEMUPbookmarkbranding.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">4-up bookmarks.</h5>
-  </section>
-  <section class="col-sm-6 description3">
-    <a href="images/TreasureHuntfinal.jpg"><img src="images/TreasureHuntfinal.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Treasure map for a week long STEM event.</h5>
-  </section>
-   <section class="col-sm-6 description3">
-    <a href="images/InvitePostcard.jpg"><img src="images/InvitePostcard.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Postcard invitation.</h5>
-  </section>
-   <section class="col-sm-6 description3">
-    <a href="images/CNMBrochure_Page_1.jpg"><img src="images/CNMBrochure_Page_1.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Front/back of brochure.</h5>
-  </section>
-   <section class="col-sm-6 description3">
-    <a href="images/CNMBrochure_Page_3.jpg"><img src="images/CNMBrochure_Page_3.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Inside page of brochure.</h5>
-  </section>
-   <section class="col-sm-6 description3">
-    <a href="images/menu.jpg"><img src="images/menu.jpg" class="img-responsive center-block IndesignImg1" alt="Responsive Image"></a>
-    <h5 class="description">Back cover of menu.</h5>
-  </section>
-   <section class="col-sm-6 description3">
-    <a href="images/menu_inside.jpg"><img src="images/menu_inside.jpg" class="img-responsive center-block IndesignImg1" alt="Responsive Image"></a>
-    <h5 class="description">Inside menu.</h5>
-  </section>
-   <section class="col-sm-6 description3">
-    <a href="images/leocover.jpg"><img src="images/leocover.jpg" class="img-responsive center-block PortfolioImg" alt="Responsive Image"></a>
-    <h5 class="description">Cover of a college magazine.</h5>
-  </section>
-  </div>
-</div>
-</div>
->>>>>>> Stashed changes
 <?php include 'includes/footer.php'; ?>

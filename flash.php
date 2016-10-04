@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <?php include 'includes/top.php'; ?>
 
 <?php include 'includes/nav.php'; ?>
